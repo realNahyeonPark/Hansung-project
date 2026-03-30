@@ -15,9 +15,6 @@
 ---
 
 ## 🌐 2. 홈페이지
-- AWS : https://simcar.kro.kr  
-- Azure : https://simcar-azure.kro.kr  
-- GCP : https://simcar-gcp.kro.kr  
 
 ---
 
@@ -54,13 +51,13 @@
 ## 📱 6. App 설치
 
 - AppStore  
-  https://apps.apple.com/kr/app/예스24-도서-서점/id360051536  
+  
 
 - TestFlight  
-  https://testflight.apple.com/join/prHh2QEZ  
+ 
 
 - GooglePlay  
-  https://play.google.com/store/apps/details?id=com.webook.app  
+    
 
 ---
 
@@ -71,8 +68,6 @@
 - 리액트 (PC)
 - 리액트 (모바일)
 
-예시:
-- 리액트 RWD : 2025 React RWD 사례
 
 > 시연 영상 링크 추가 예정
 
@@ -80,24 +75,14 @@
 
 ## 📊 8. 작년 우수팀과 비교표
 
-| 항목 | 우리 팀 | 2025 웹분야 우수팀 |
-|------|--------|------------------|
-| 기능 완성도 | ✅ | ✅ |
-| UI/UX | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| 성능 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| 확장성 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+
 
 ---
 
 ## 🏆 웹분야 2025년 우수팀 기준 비교
 
-> 본 프로젝트는 기존 우수팀 대비 기능 확장성과 실서비스 배포 환경(AWS, Azure, GCP)을 포함하여 개선됨.
 
 ---
 
-## ⚙️ 실행 방법
 
-```bash
-# Backend 실행
-./gradlew build
-./gradlew bootRun
+
