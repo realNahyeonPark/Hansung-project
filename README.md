@@ -15,8 +15,9 @@
 ---
 
 ## 🌐 2. 홈페이지
-> 본 프로젝트의 실제 배포 서비스로, 사용자들이 직접 휴대폰을 검색하고 구매할 수 있는 웹 쇼핑몰입니다.
 🔗 **[SimPhone 서비스 바로가기](https://simphone.kro.kr/)**
+
+---
 
 ## 🧩 3. 기능구성도
 > 시스템의 전체 구조 및 주요 기능 흐름을 나타냅니다.
@@ -63,10 +64,10 @@
 
 ## 🎬 7. 시연동영상
 
-- [아이폰 (실물)](https://youtu.be/IRqKWcqfpXc)
-- [안드로이드 (실물)](https://www.youtube.com/shorts/lu3h6APcrQk)
-- [리액트 (PC)](https://youtu.be/5Sqh0Xvk86o)
-- 리액트 (모바일) : 링크 추가 예정
+- [아이폰 (실물)](https://youtu.be/4XY3Yzg1CVA)
+- [안드로이드 (실물)](https://www.youtube.com/shorts/9y7bUyd70Qw?si=DhRFh-5NGdl9LBEz)
+- [리액트 (PC)](https://youtu.be/O13t144tnC8)
+- [리액트 (모바일)](https://youtu.be/r2S4JZyZufA)
 
 ---
 
